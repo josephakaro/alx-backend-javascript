@@ -1,5 +1,11 @@
 # ALX Backend JavaScript
 
+<div align="center">
+   <img src="https://timmousk.com/wp-content/uploads/2022/03/2-2.jpg" alt="Old man javascript meme" />
+</div>
+
+
+## Summary
 Welcome to the ALX Backend JavaScript repository! This repository contains code examples, exercises, and projects for the ALX Backend JavaScript course, focusing on building robust backend applications using JavaScript.
 
 ## Table of Contents
