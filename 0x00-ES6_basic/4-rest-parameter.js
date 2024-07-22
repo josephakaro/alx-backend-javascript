@@ -1,4 +1,3 @@
-export default function returnHowManyArguments() {
-	let args = arguments.length;
-	return args;
+export default function returnHowManyArguments(...args) {
+	return args.length;
 }
